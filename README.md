@@ -3,7 +3,7 @@
 
 ## Project Overview
 ---
-The school board has become suspicious that the reading and math scores reported for 9th graders at Thomas High School may have been altered. Maria and her supervisor have asked that the math and reading scores for Thomas High School 9th graders be replaced with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced, Maria would like the school district analysis repeated to illustrate how these changes affected the overall analysis.
+The school board has become suspicious that the reading and math scores reported for 9th graders at Thomas High School may have been compromised. Maria and her supervisor have asked that the math and reading scores for Thomas High School 9th graders be replaced with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced, Maria would like the school district analysis repeated to illustrate how these changes affected the overall analysis.
 
 ## Resources
 ---
