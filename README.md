@@ -12,6 +12,10 @@ The school board has become suspicious that the reading and math scores reported
 
 ## Results
 ---
+### Replace Ninth-Grade Reading and Math Scores
+
+
+### Repeat the School District Analysis
 
 ## Summary
 ---
